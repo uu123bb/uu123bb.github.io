@@ -1,6 +1,6 @@
 ---
 title: 泠雨的个人链接
-author: KingBull27354
+author: 泠雨
 date: 2024-5-11 14:00:00 +0800
 categories: [Blogging]
 tags: [writing]
