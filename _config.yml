@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 泠雨的个人博客 | Chirpy # the main title
+title: 泠雨的个人博客 # the main title
 
-tagline: 基于 Jekyll Chirpy 主题 # it will display as the sub-title
+tagline: 发掘开源的力量 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
