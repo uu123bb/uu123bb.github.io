@@ -3,6 +3,11 @@ import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
   siteName: "ResTing's Blog",
+  brand: {
+    title: "ResTing's Blog",
+    subtitle: "琛婷的个人博客",
+    logo: "✨",
+  },
 
   sidebar: {
     author: "琛婷_ResTing",
