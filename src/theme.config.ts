@@ -2,7 +2,6 @@
 import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
-  
   siteName: "ResTing's Blog",
 
   sidebar: {
@@ -26,4 +25,4 @@ export default defineConfig({
       icpnumber: "", // 你的备案号
     },
   }
-});
+})
