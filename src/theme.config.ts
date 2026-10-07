@@ -11,7 +11,6 @@ export default defineConfig({
 
   sidebar: {
     author: "琛婷_ResTing",
-    description: "None",
     social: {
       github: {
         url: "https://github.com/uu123bb",
