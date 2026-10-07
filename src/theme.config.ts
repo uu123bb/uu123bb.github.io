@@ -12,5 +12,18 @@ export default defineConfig({
         url: "https://github.com/uu123bb",
         icon: "i-ri-github-fill",
       },
-  }
+    },
+  },
+
+  copyright: {
+    license: "CC-BY-NC-SA-4.0", // 主题默认
+  },
+
+  footer: {
+    since: 2026, // 博客起始年份
+    icp: {
+      enable: false, // 启用 ICP 信息
+      icpnumber: "", // 你的备案号
+    },
+  },
 });
