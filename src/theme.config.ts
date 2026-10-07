@@ -25,5 +25,5 @@ export default defineConfig({
       enable: false, // 启用 ICP 信息
       icpnumber: "", // 你的备案号
     },
-  },
+  }
 });
