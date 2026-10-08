@@ -18,7 +18,7 @@ export default defineConfig({
       },
     },
   },
-  
+
   copyright: {
     license: "CC-BY-NC-SA-4.0", // 主题默认
   },
