@@ -2,15 +2,15 @@
 import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
-  siteName: "ResTing's Blog",
+  siteName: "ReniOn's Blog",
   brand: {
-    title: "ResTing's Blog",
-    subtitle: "琛婷的个人博客",
+    title: "ReniOn's Blog",
+    subtitle: "",
     logo: "✨",
   },
 
   sidebar: {
-    author: "琛婷_ResTing",
+    author: "玲音_ReniOn",
     social: {
       github: {
         url: "https://github.com/uu123bb",
