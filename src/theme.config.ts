@@ -20,6 +20,7 @@ export default defineConfig({
 
   sidebar: {
     author: "玲音_Reni",
+    description: "Forever",
     social: {
       github: {
         url: "https://github.com/uu123bb",
