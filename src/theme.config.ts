@@ -10,11 +10,11 @@ export default defineConfig({
   },
 
   cover: {
-  enable: true,
-  preload: true,
-  fixedCover: {
     enable: true,
-    url: "https://furina.baigei.cc/pc/014.jpg",
+    preload: true,
+    fixedCover: {
+      enable: true,
+      url: "https://furina.baigei.cc/pc/014.jpg",
     },
   },
 
