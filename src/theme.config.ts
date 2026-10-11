@@ -9,6 +9,15 @@ export default defineConfig({
     logo: "✨",
   },
 
+  cover: {
+  enable: true,
+  preload: true,
+  fixedCover: {
+    enable: true,
+    url: "https://furina.baigei.cc/pc/014.jpg",
+    },
+  },
+
   sidebar: {
     author: "玲音_Reni",
     social: {
