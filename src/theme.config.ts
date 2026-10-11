@@ -10,6 +10,8 @@ export default defineConfig({
   },
 
   cover: {
+    enable: true,
+    preload: true,
     fixedCover: {
       enable: true,
       url: "/1.jpg",
