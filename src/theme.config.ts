@@ -11,7 +11,7 @@ export default defineConfig({
 
   cover: {
     enable: true,
-    advancedCarousel: true,           // 启用高级轮播
+    advancedCarousel: true, // 启用高级轮播
     coverUrls: [
       "https://furina.baigei.cc/pc/014.jpg",
       "https://list.yppp.net/d/image/2025-12-fa65ad4b13d55e434c5c6737e4bd0bc6.jpeg",
