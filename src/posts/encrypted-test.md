@@ -8,8 +8,8 @@ tags:
 categories:
   - 教程
 hide:
-  recent: true   # 从首页隐藏
-  archive: true  # 从归档页隐藏
+  recent: true # 从首页隐藏
+  archive: true # 从归档页隐藏
 ---
 
 这是一篇加密文章的测试内容。

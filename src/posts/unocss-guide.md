@@ -6,8 +6,8 @@ tags: [css, unocss, styling]
 categories: [Frontend, Styling]
 draft: false
 hide:
-  recent: true   # 从首页隐藏
-  archive: true  # 从归档页隐藏
+  recent: true # 从首页隐藏
+  archive: true # 从归档页隐藏
 ---
 
 UnoCSS 是一个高性能且极具灵活性的即时原子化 CSS 引擎。

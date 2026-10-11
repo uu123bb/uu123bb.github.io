@@ -6,8 +6,8 @@ tags: [test, image, svelte]
 categories: [Testing]
 draft: false
 hide:
-  recent: true   # 从首页隐藏
-  archive: true  # 从归档页隐藏
+  recent: true # 从首页隐藏
+  archive: true # 从归档页隐藏
 ---
 
 这是一篇用于验证文章内图片点击放大效果的测试文章。

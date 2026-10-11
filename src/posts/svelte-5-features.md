@@ -6,8 +6,8 @@ tags: [svelte, runes, frontend]
 categories: [Frontend, Tutorial]
 draft: false
 hide:
-  recent: true   # 从首页隐藏
-  archive: true  # 从归档页隐藏
+  recent: true # 从首页隐藏
+  archive: true # 从归档页隐藏
 ---
 
 Svelte 5 引入了全新的 Runes API,为响应式编程带来了更强大的能力。
