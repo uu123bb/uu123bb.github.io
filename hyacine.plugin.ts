@@ -71,7 +71,7 @@ export default defineConfig({
       restoreDelay: 3000,
     }),
     nyxPlayer({
-      enable: true,
+      enable: false,
       urls: [
         {
           name: "CE",
