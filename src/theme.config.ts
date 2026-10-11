@@ -4,7 +4,7 @@ import { defineConfig } from "./toolkit/themeConfig";
 export default defineConfig({
   siteName: "玲音的藏馆",
   brand: {
-    title: "Reni's Blog",
+    title: "玲音的藏馆",
     subtitle: "",
     logo: "✨",
   },
