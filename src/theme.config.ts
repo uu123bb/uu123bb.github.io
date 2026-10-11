@@ -32,9 +32,7 @@ export default defineConfig({
     license: "CC-BY-NC-SA-4.0",
   },
 
-  nav: [
-    
-  ],
+  nav: [],
 
   footer: {
     since: 2026, // 博客起始年份
