@@ -75,7 +75,7 @@ export default defineConfig({
       urls: [
         {
           name: "CE",
-          url: "https://music.163.com/playlist?id=18413783347",
+          url: "https://music.163.com/playlist?id=18413783347&uct2=U2FsdGVkX1/wBZXSyuqIVHRECmYfiuz+8BbsOHGt09Q=",
         },
       ],
       preset: "shokax",
