@@ -27,7 +27,7 @@ export default defineConfig({
   },
   plugins: [
     siteUptime({
-      siteCreatedAt: "2024-01-01T00:00:00Z",
+      siteCreatedAt: "2026-10-08T00:00:00Z",
       prefixText: "本站已运行",
     }),
     mouseFirework({
