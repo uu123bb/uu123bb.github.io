@@ -2,7 +2,7 @@
 import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
-  siteName: "Reni's Blog",
+  siteName: "玲音的藏馆",
   brand: {
     title: "Reni's Blog",
     subtitle: "",
