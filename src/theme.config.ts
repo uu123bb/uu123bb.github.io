@@ -19,16 +19,6 @@ export default defineConfig({
     },
   },
 
-  nyxPlayer: {
-    enable: true,
-    urls: [
-      {
-        name: "我的歌单",
-        url: "https://music.163.com/playlist?id=18413783347",
-      },
-    ],
-  },
-
   copyright: {
     license: "CC-BY-NC-SA-4.0", // 主题默认
   },
