@@ -1,9 +1,9 @@
 ---
-title: Hello World!
+title: 关于某八键游戏
 date: 2026-10-09
-description: This is the first post on the ShokaX blog. Welcome to our new Astro-based theme!
+description: Draft
 tags: [maimai]
-categories: [maimaidx]
+categories: [舞萌]
 cover: ../assets/images/cover-1.avif
 draft: false
 ---
