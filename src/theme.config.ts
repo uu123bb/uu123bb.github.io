@@ -32,7 +32,23 @@ export default defineConfig({
     license: "CC-BY-NC-SA-4.0",
   },
 
-  nav: [],
+  nav: [
+    { text: "首页", href: "/", icon: "i-ri-home-line" },
+    { text: "关于", href: "/about/", icon: "i-ri-user-3-line" },
+    {
+      text: "文章",
+      href: "/random/",
+      icon: "i-ri-quill-pen-fill",
+      dropbox: {
+        enable: true,
+        items: [
+          { text: "分类", href: "/categories/", icon: "i-ri-book-shelf-fill" },
+          { text: "标签", href: "/tags/", icon: "i-ri-price-tag-3-fill" },
+          { text: "归档", href: "/archives/", icon: "i-ri-archive-line" },
+        ],
+      },
+    },
+  ],
 
   footer: {
     since: 2026, // 博客起始年份
