@@ -5,7 +5,7 @@ description: This is the first post on the ShokaX blog. Welcome to our new Astro
 tags: [maimai]
 categories: [maimaidx]
 cover: ../assets/images/cover-1.avif
-draft: true
+draft: false
 ---
 
 Draft
