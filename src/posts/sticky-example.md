@@ -6,6 +6,9 @@ tags: [announcement, sticky]
 categories: [公告]
 sticky: true
 draft: false
+hide:
+  recent: true   # 从首页隐藏
+  archive: true  # 从归档页隐藏
 ---
 
 这是一篇置顶文章的示例内容。置顶文章会显示在首页的最上方,在分类卡片之前。

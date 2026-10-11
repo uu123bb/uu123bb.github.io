@@ -6,6 +6,9 @@ description: 这是一篇用于测试 Post 页面所有功能的完整文章，�
 tags: [测试, Astro, ShokaX, 迁移]
 categories: [开发, 测试]
 draft: false
+hide:
+  recent: true   # 从首页隐藏
+  archive: true  # 从归档页隐藏
 ---
 
 ## 欢迎来到新的 Post 页面

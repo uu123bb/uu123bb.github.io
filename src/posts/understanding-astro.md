@@ -5,6 +5,9 @@ description: Astro 是一个现代化的静态站点生成器,了解其核心概
 tags: [astro, framework, frontend]
 categories: [Tutorial, Frontend]
 draft: false
+hide:
+  recent: true   # 从首页隐藏
+  archive: true  # 从归档页隐藏
 ---
 
 Astro 是一个现代化的前端框架,专注于构建快速的内容驱动网站。

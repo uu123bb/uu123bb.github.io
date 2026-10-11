@@ -6,6 +6,9 @@ tags: [welcome, astro, shokaX]
 categories: [Getting Started]
 cover: ../assets/images/cover-1.avif
 draft: false
+hide:
+  recent: true   # 从首页隐藏
+  archive: true  # 从归档页隐藏
 ---
 
 This is the initial hello world post to demonstrate the blog structure. You can now start creating your own posts in the `src/posts/` directory.

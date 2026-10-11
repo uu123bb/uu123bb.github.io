@@ -4,6 +4,9 @@ date: 2025-12-04
 tags: [customization, config, styling]
 categories: ${folder}
 draft: false
+hide:
+  recent: true   # 从首页隐藏
+  archive: true  # 从归档页隐藏
 ---
 
 # remark 插件综合测试文档
