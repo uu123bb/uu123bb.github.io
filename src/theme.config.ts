@@ -11,14 +11,17 @@ export default defineConfig({
 
   cover: {
     enable: true,
-    advancedCarousel: true, // 启用高级轮播
-    coverUrls: [
-      "https://furina.baigei.cc/pc/014.jpg",
-      "https://list.yppp.net/d/image/2025-12-fa65ad4b13d55e434c5c6737e4bd0bc6.jpeg",
-      "https://t.alcy.cc/pic/pc/_-_.webp",
-      "https://list.yppp.net/d/cos/image/2026-6-eddea4d005d4d676.jpg",
-      "https://list.yppp.net/d/image/2025-11-fdc6e24eda486dc5260cfdf423cba0d4.png",
-    ],
+    preload: true,
+   fixedCover: {
+     enable: false,        // 关闭固定封面，启用轮播
+   },
+   coverUrls: [
+     "https://furina.baigei.cc/pc/014.jpg",
+     "https://list.yppp.net/d/image/2025-12-fa65ad4b13d55e434c5c6737e4bd0bc6.jpeg",
+     "https://t.alcy.cc/pic/pc/_-_.webp",
+     "https://list.yppp.net/d/cos/image/2026-6-eddea4d005d4d676.jpg",
+     "https://list.yppp.net/d/image/2025-11-fdc6e24eda486dc5260cfdf423cba0d4.png",
+   ],
   },
 
   sidebar: {
