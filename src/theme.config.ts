@@ -2,15 +2,15 @@
 import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
-  siteName: "ReniOn's Blog",
+  siteName: "Reni's Blog",
   brand: {
-    title: "ReniOn's Blog",
+    title: "Reni's Blog",
     subtitle: "",
     logo: "✨",
   },
 
   sidebar: {
-    author: "玲音_ReniOn",
+    author: "玲音_Reni",
     social: {
       github: {
         url: "https://github.com/uu123bb",
@@ -20,7 +20,7 @@ export default defineConfig({
   },
 
   copyright: {
-    license: "CC-BY-NC-SA-4.0", // 主题默认
+    license: "CC-BY-NC-SA-4.0",
   },
 
   footer: {
