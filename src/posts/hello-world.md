@@ -5,7 +5,7 @@ description: This is the first post on the ShokaX blog. Welcome to our new Astro
 tags: [welcome, astro, shokaX]
 categories: [Getting Started]
 cover: ../assets/images/cover-1.avif
-draft: true
+draft: false
 hide:
   recent: true # 从首页隐藏
   archive: true # 从归档页隐藏

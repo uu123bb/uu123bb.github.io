@@ -4,7 +4,7 @@ date: 2025-12-02
 description: 探索 Svelte 5 带来的全新 Runes API 和性能改进
 tags: [svelte, runes, frontend]
 categories: [Frontend, Tutorial]
-draft: true
+draft: false
 hide:
   recent: true # 从首页隐藏
   archive: true # 从归档页隐藏

@@ -5,7 +5,7 @@ description: 这是一篇置顶文章示例,用于展示首页的置顶文章功
 tags: [announcement, sticky]
 categories: [公告]
 sticky: true
-draft: true
+draft: false
 hide:
   recent: true # 从首页隐藏
   archive: true # 从归档页隐藏

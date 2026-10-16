@@ -5,7 +5,7 @@ description: Learn how to set up and use the ShokaX theme for Astro
 tags: [tutorial, guide, astro]
 categories: [Getting Started, Tutorial]
 cover: ../assets/images/cover-2.avif
-draft: true
+draft: false
 hide:
   recent: true # 从首页隐藏
   archive: true # 从归档页隐藏
