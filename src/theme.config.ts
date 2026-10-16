@@ -14,7 +14,7 @@ export default defineConfig({
     preload: true,
     fixedCover: {
       enable: true,
-      url: "/1.jpg",
+      url: "/2.jpg",
     },
   },
 
