@@ -6,6 +6,7 @@ password: test123
 tags:
   - 测试
 categories:
+draft: true
   - 教程
 hide:
   recent: true # 从首页隐藏

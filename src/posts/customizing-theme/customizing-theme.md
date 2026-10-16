@@ -3,7 +3,7 @@ title: Explore the various customization options available in ShokaX theme confi
 date: 2025-12-04
 tags: [customization, config, styling]
 categories: ${folder}
-draft: false
+draft: true
 hide:
   recent: true # 从首页隐藏
   archive: true # 从归档页隐藏

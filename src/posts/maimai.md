@@ -5,7 +5,7 @@ description: Draft
 tags: [maimai]
 categories: [舞萌]
 cover: ../assets/images/cover-1.avif
-draft: true
+draft: false
 ---
 
 Draft
