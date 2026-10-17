@@ -106,7 +106,7 @@ if (themeConfig.diagnostics?.suppressFsWatcherMaxListenersWarning !== false) {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://uu123bb.github.io",
+  site: "https://blog.purplezt1475.top",
   trailingSlash: "always",
   build: {
     format: "directory",
